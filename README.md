@@ -1,0 +1,2 @@
+# JavaCollection
+JavaColletion的retainAll方法可以把A和B的两个存储元素取交集，交元素放入A
